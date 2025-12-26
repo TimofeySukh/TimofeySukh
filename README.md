@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there, I'm Tim! 👋
 
-<!--
-**TimofeySukh/TimofeySukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer based in Copenhagen, currently studying at **Copenhagen City School**. I mostly code in **Python** and **Go**, but I’m always looking to go deeper into hardware.
 
-Here are some ideas to get you started:
+### 🚀 My North Star
+My ultimate goal is to build an **original OS kernel from scratch**. To make that happen, I’m currently diving into **C** and **Assembly** to understand the bridge between software and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/TimofeySukh/TimofeySukh/output/github-contribution-grid-snake.svg)
+
+### 📫 Contact me:
+- **Email:** [timasukhovm@gmail.com](mailto:timasukhovm@gmail.com)
+- **Telegram:** [@tima_tima](https://t.me/tima_tima)
